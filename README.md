@@ -1,5 +1,5 @@
 # rover-alexa-skill
-Allows for testing Alexa Rover "bones" outside of Alexa.  The bones folder contains samples for testing as well as the strcuture of a 
+Allows for testing Alexa Rover "bones" outside of Alexa.  The bones folder contains samples for testing as well as the structure of a 
 typical bones folder found on a user's cloud drive.  The bones folder normally resides in Apps\rover-alexa-skill\bones.  
 
 # Install

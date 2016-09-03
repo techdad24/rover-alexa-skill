@@ -1,8 +1,9 @@
 {
   "name": "rover-alexa-skill",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Stub for testing Rover bones",
   "homepage": "https://github.com/techdad24/rover-alexa-skill",
+  "repository":"git://github.com/techdad24/rover-alexa-skill.git",  
   "main": "rover.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

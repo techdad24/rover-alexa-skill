@@ -1,0 +1,20 @@
+{
+    "_c1":"Each bone needs an entry here in order to tie together the invocation name, the actual file to execute,", 
+    "_c2":"and the intents it will act upon.",
+    
+    "version":"1.00",
+    "bones":[
+      {"name" : "LA Metro",
+       "fileName" : "metro.js",
+       "invocationName" : "metro",
+       "intents":["FetchIntent","AMAZON.YesIntent","AMAZON.NoIntent"]
+      },
+      {"name" : "DC Metro",
+       "fileName" : "dcmetro.js",
+       "invocationName" : "dc",
+       "intents":["FetchIntent","AMAZON.YesIntent","AMAZON.NoIntent"]     
+      }	  
+        ]
+}
+
+

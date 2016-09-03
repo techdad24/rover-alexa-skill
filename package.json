@@ -1,0 +1,27 @@
+{
+  "name": "rover-alexa-skill",
+  "version": "1.0.0",
+  "description": "Stub for testing Rover bones",
+  "homepage": "https://github.com/techdad24/rover-alexa-skill",
+  "main": "rover.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rover",
+    "alexa"
+  ],
+  "files": [
+    "bones"
+  ],
+  "directories": {
+    "bones": "./bones"
+  },  
+  "author": {
+    "name": "Erik McBeth",
+    "email": "techdad24@gmail.com",
+    "url": "http://techdad24.com"
+  },
+  "license": "MIT"
+
+}

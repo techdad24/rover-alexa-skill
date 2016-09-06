@@ -1,7 +1,11 @@
 {
     "_c1":"Each bone needs an entry here in order to tie together the invocation name, the actual file to execute,", 
     "_c2":"and the intents it will act upon.",
-    
+    "_c3":"name=Title or name for the bone",
+    "_c4":"fileName=JavaScript file to load",
+    "_c5":"invocationName=Single word the user will use when fetching the bone: fetch metro",
+    "_c6":"intents=Array of intents that the bone will respond to, at a minimum it should act on FetchIntent",
+
     "version":"1.00",
     "bones":[
       {"name" : "LA Metro",
@@ -9,11 +13,16 @@
        "invocationName" : "metro",
        "intents":["FetchIntent","AMAZON.YesIntent","AMAZON.NoIntent"]
       },
+      {"name" : "Days until Christmas",
+       "fileName" : "christmas.js",
+       "invocationName" : "christmas",
+       "intents":["FetchIntent"]
+      }	,      
       {"name" : "DC Metro",
        "fileName" : "dcmetro.js",
-       "invocationName" : "dc",
-       "intents":["FetchIntent","AMAZON.YesIntent","AMAZON.NoIntent"]     
-      }	  
+       "invocationName" : "washington",
+       "intents":["FetchIntent","AMAZON.YesIntent","AMAZON.NoIntent"] 
+      }	
         ]
 }
 

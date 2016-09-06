@@ -1,6 +1,6 @@
 {
   "name": "rover-alexa-skill",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Stub for testing Rover bones",
   "homepage": "https://github.com/techdad24/rover-alexa-skill",
   "repository":"git://github.com/techdad24/rover-alexa-skill.git",  

@@ -18,3 +18,45 @@ The Rover app expects to find a bones.json file in your bones folder.  The helps
 the word "fetch") and what file to load in from the cloud drive.   The file also contains the intents that it will accept - which normally is
 the FetchIntent followed by any of the other built-in Amazon intents like Yes or No.
 
+In an effort to help Alexa identify bone utterances we've included some of the following as part of the interaction model.  Try using one
+of these as your invocation name:
+
+alpha
+beta
+delta
+epsilon
+omega
+metro
+dc
+web
+alexa
+grabber
+sleepy
+grumpy
+google
+bing
+zeta
+theta
+sigma
+lambda
+paris
+london
+miami
+chicago
+phoenix
+arizona
+california
+munich
+cairo
+yosemite
+lollipop
+marshmellow
+apricot
+apple
+banana
+alabama
+arkansas
+colorado
+carolina
+delaware
+
